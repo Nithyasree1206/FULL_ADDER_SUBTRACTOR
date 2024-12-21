@@ -52,6 +52,7 @@ Write the detailed procedure here
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
+```
 i)full adder
 module exp4(
 input a,b,c,
@@ -76,6 +77,10 @@ and g4(w6,b,c);
 or g5(borr,w4,w5,w6);
 endmodule
 
+````
+ Developed by:S.NITHYASREE 
+ RegisterNumber:24900149
+*/
 **RTL Schematic**
 
 **Output Timing Waveform**
